@@ -41,7 +41,7 @@ Files
 -ELANVisualizationsinTableau.pptx shows different visualizations in Tableau using data from the "biker_biker_buddy" file in
 elanBUcorpus.
 -ELANpresentation.pptx shows examples of how to create an annotation and a tier in ELAN
-![image](https://user-images.githubusercontent.com/105459418/184255144-4647420b-35f3-480e-b199-fa2c84bdc159.png)
+
 
 
 [My Final Report](files/finalreport.pdf)
